@@ -1,1 +1,3 @@
-# FrostClient
+The files are held here.
+To download the client please join this server...
+https://discord.gg/jcwsdmJ
